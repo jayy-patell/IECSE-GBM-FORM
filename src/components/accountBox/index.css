@@ -1,0 +1,8 @@
+.iecse{
+    text-align: center;
+    font-weight: 500;
+    font-size: calc(1vw + 1vh);
+}
+.iecse span {
+    font-weight: 750;
+}
